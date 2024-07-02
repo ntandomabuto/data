@@ -1,59 +1,73 @@
 {
-    "aboutMe":"My name is Ntando Mabuto from Cape Town. I am a well motivated person and I push myself to get everything done. I garduated from high school in 2022. Knowledge is power and everytime I learn new things I get excited I was introduced to the tech industry at grade ten, since then I set a new goal of being the best and a professional IT specialist. Although I am still new in the industry but everyday is a new lesson so I am getting better with time. On my free time I do self studying to improve my skills, things I enjoy doing are listening to music. Working individually is efficient but group work is done quickly, I work well within groups because different minds bring up bright ideas. I also do self motivate",
+    "aboutMe":"My name is Ntando Mabuto from Cape Town. I am a well motivated person and I push myself to get everything done. I garduated from high school in 2022. Knowledge is power and everytime I learn new things I get excited I was introduced to the tech industry at grade ten, since then I set a new goal of being the best and a professional IT specialist. Although I am still new in the industry but everyday is a new lesson so I am getting better with time. On my free time I do self studying to improve my skills, things I enjoy doing are listening to music. Working individually is efficient but group work is done quickly, I work well within groups because different minds bring up bright ideas. I can speak two languages, Isixhosa and English",
     "projects":[
         {
             "name": "Calculator",
             "github": "https://github.com/ntandomabuto/calculator.git",
             "vercel": "https://calculator2-xi-blue.vercel.app/",
             "description": "I only used css and html for this project and it was my first project, but I updated it using javascript",
-            "image": ""
+            "image": "https://ntandomabuto.github.io/images/calculator.png"
         },
         {
             "name": "Keyboard",
             "github": "https://github.com/ntandomabuto/keyBoard.git",
             "vercel": "https://key-board-alpha.vercel.app/",
             "description": "The keyboard was my first favourite project, designed using HTML and CSS",
-            "image": ""
+            "image": "https://ntandomabuto.github.io/images/keyboard.png"
         },
         {
             "name": "Todo List",
             "github": "https://ntandomabuto.github.io/todo/",
             "vercel": "https://todo-one-navy.vercel.app/",
             "description": "I used html,css and javascript for the todo list",
-            "image": ""
+            "image": "https://ntandomabuto.github.io/images/todo.png"
         },
         {
             "name": "Add Up ",
             "github": "https://ntandomabuto.github.io/addup/",
             "vercel": "https://addup-zeta.vercel.app/",
             "description": "I used html and css for the add up, the user puts in an array in the input tag and the numbers add up",
-            "image": ""
+            "image": "https://ntandomabuto.github.io/images/add.png"
         },
         {
             "name": "Minutes to Seconds Converter",
             "github": "https://ntandomabuto.github.io/minutestoseconds/",
             "vercel": "https://minutestoseconds-virid.vercel.app/",
             "description": "The minutes to seconds converter, I also used html and css and javascript. It converts any minutes into seconds",
-            "image": ""
+            "image": "https://ntandomabuto.github.io/images/min.png"
         },
         {
             "name": "Interest Amount ",
             "github": "https://ntandomabuto.github.io/interestamount/",
             "vercel": "https://interestamount-six.vercel.app/",
             "description": "I also used used the three languages I learnt for this, it calculates the interest of the amount of your choice",
-            "image": ""
+            "image": "https://ntandomabuto.github.io/images/interest.png"
         }
         
     ],
     "education":[
         {
-            "description":"Currently at the Life Choices Academy, graduated from high school in 2022 with a Bachelor pass",
-            "year":"2 April - to present",
+            "description":"Currently at the Life Choices Academy",
+            "year":"2 April - current year",
             "insititution":"Life Choices Academy",
             "contact":[
                 {
-                    "name":"",
-                    "contactDetails":""
+                    "name":"Life Choices Office",
+                    "number":"0216964157",
+                    "email":"info@lifechoices.co.za"
+                }
+            ]
+        },
+        {
+            "description":"Graduated from High School with a Bachelor Pass",
+            "subjects":"",
+            "year":"2018 - 2024",
+            "insititution":"Sophumelela Secondary",
+            "contact":[
+                {
+                    "name":"Principal ",
+                    "number":"0213968025",
+                    "email":"admin@wvcs.wcape.school.za"
                 }
             ]
         }
@@ -100,14 +114,26 @@
         {
             "name":"Sihlandlo Makhumsha",
             "position":"Student",
-            "message":"Ntando is a very committed hard worker and an inspiring person. When given a task, he makes sure it's completed on the given time period. He would definitely be of great value in any team.",
+            "message":"Ntando is a very committed and an inspiring hard worker. He would definitely be of great value in any team.",
             "image":"https://ntandomabuto.github.io/images/sc.jpg"
         },
         {
-            "name":"Yolanda ",
+            "name":"Yolanda Matiwane",
             "position":"Student",
-            "message":"Ntando is a joy to be around, he has a relaxed and easy-going nature. His energy is contagious and he always gets people around him to smile and laugh. His positive attitude and willingness to learn is admirable, which makes his a valued team member.",
-            "image":" "
+            "message":"Ntando is a joy to be around, he has a relaxed and easy-going nature.",
+            "image":"https://ntandomabuto.github.io/images/yolanda.jpg "
+        },
+        {
+            "name":"Asanda Mehlo",
+            "position":"Student",
+            "message":"His willingness to help others shows his kindness and dedication",
+            "image":"https://asandam.github.io/images/asaM.jpg "
+        },
+        {
+            "name":"Siphokuhle Nyana",
+            "position":"Student",
+            "message":"",
+            "image":" https://ntandomabuto.github.io/images/spho.png"
         }
         
     ]
