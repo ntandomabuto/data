@@ -17,29 +17,29 @@
         },
         {
             "name": "Todo List",
-            "github": "https://ntandomabuto.github.io/todo/",
-            "vercel": "https://todo-one-navy.vercel.app/",
+            "github": "https://github.com/ntandomabuto/todo.git",
+            "vercel": "https://ntandomabuto.github.io/todo/",
             "description": "I used html,css and javascript for the todo list",
             "image": "https://ntandomabuto.github.io/images/todo.png"
         },
         {
             "name": "Add Up ",
-            "github": "https://ntandomabuto.github.io/addup/",
-            "vercel": "https://addup-zeta.vercel.app/",
+            "github": "https://github.com/ntandomabuto/addup.git",
+            "vercel": "https://ntandomabuto.github.io/addup/",
             "description": "I used html and css for the add up, the user puts in an array in the input tag and the numbers add up",
             "image": "https://ntandomabuto.github.io/images/add.png"
         },
         {
             "name": "Minutes to Seconds Converter",
-            "github": "https://ntandomabuto.github.io/minutestoseconds/",
-            "vercel": "https://minutestoseconds-virid.vercel.app/",
+            "github": "https://github.com/ntandomabuto/minutestoseconds.git",
+            "vercel": "https://ntandomabuto.github.io/minutestoseconds/",
             "description": "The minutes to seconds converter, I also used html and css and javascript. It converts any minutes into seconds",
             "image": "https://ntandomabuto.github.io/images/min.png"
         },
         {
             "name": "Interest Amount ",
-            "github": "https://ntandomabuto.github.io/interestamount/",
-            "vercel": "https://interestamount-six.vercel.app/",
+            "github": "https://github.com/ntandomabuto/interestamount.git",
+            "vercel": "https://ntandomabuto.github.io/interestamount/",
             "description": "I also used used the three languages I learnt for this, it calculates the interest of the amount of your choice",
             "image": "https://ntandomabuto.github.io/images/interest.png"
         }
