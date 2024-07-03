@@ -4,7 +4,7 @@
         {
             "name": "Keyboard",
             "github": "https://github.com/ntandomabuto/keyBoard.git",
-            "vercel": "https://key-board-alpha.vercel.app/",
+            "vercel": "https://ntandomabuto.github.io/keyBoard/",
             "description": "The keyboard was my first favourite project, designed using HTML and CSS",
             "image": "https://ntandomabuto.github.io/images/keyboard.png"
         },
