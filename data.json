@@ -2,13 +2,6 @@
     "aboutMe":"My name is Ntando Mabuto from Cape Town. I am a well motivated person and I push myself to get everything done. I garduated from high school in 2022. Knowledge is power and everytime I learn new things I get excited I was introduced to the tech industry at grade ten, since then I set a new goal of being the best and a professional IT specialist. Although I am still new in the industry but everyday is a new lesson so I am getting better with time. On my free time I do self studying to improve my skills, things I enjoy doing are listening to music. Working individually is efficient but group work is done quickly, I work well within groups because different minds bring up bright ideas. I can speak two languages, Isixhosa and English",
     "projects":[
         {
-            "name": "Calculator",
-            "github": "https://github.com/ntandomabuto/calculator.git",
-            "vercel": "https://calculator2-xi-blue.vercel.app/",
-            "description": "I only used css and html for this project and it was my first project, but I updated it using javascript",
-            "image": "https://ntandomabuto.github.io/images/calculator.png"
-        },
-        {
             "name": "Keyboard",
             "github": "https://github.com/ntandomabuto/keyBoard.git",
             "vercel": "https://key-board-alpha.vercel.app/",
@@ -16,11 +9,18 @@
             "image": "https://ntandomabuto.github.io/images/keyboard.png"
         },
         {
-            "name": "Todo List",
-            "github": "https://github.com/ntandomabuto/todo.git",
-            "vercel": "https://ntandomabuto.github.io/todo/",
-            "description": "I used html,css and javascript for the todo list",
-            "image": "https://ntandomabuto.github.io/images/todo.png"
+            "name": "Calculator",
+            "github": "https://github.com/ntandomabuto/calculator.git",
+            "vercel": "https://calculator2-xi-blue.vercel.app/",
+            "description": "I only used css and html for this project and it was my first project, but I updated it using javascript",
+            "image": "https://ntandomabuto.github.io/images/calculator.png"
+        },
+        {
+            "name": "Area of Triangle",
+            "github": "https://github.com/ntandomabuto/areatri.git",
+            "vercel": "https://ntandomabuto.github.io/areatri/",
+            "description": "This calculates the area of triangle",
+            "image": "https://ntandomabuto.github.io/images/area.png"
         },
         {
             "name": "Add Up ",
@@ -40,7 +40,7 @@
             "name": "Interest Amount ",
             "github": "https://github.com/ntandomabuto/interestamount.git",
             "vercel": "https://ntandomabuto.github.io/interestamount/",
-            "description": "I also used used the three languages I learnt for this, it calculates the interest of the amount of your choice",
+            "description": "I also used used the three languages I learnt for this, it calculates an interest of any amount",
             "image": "https://ntandomabuto.github.io/images/interest.png"
         }
         
