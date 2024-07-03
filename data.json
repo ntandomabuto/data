@@ -60,9 +60,8 @@
         },
         {
             "description":"Graduated from High School with a Bachelor Pass",
-            "subjects":"",
-            "year":"2018 - 2024",
-            "insititution":"Sophumelela Secondary",
+            "year":"2018 - 2022",
+            "institution":"Sophumelela Secondary School",
             "contact":[
                 {
                     "name":"Principal ",
@@ -70,32 +69,6 @@
                     "email":"admin@wvcs.wcape.school.za"
                 }
             ]
-        }
-    ],
-    "skills":[
-        {
-            "name":"HTML",
-            "image":""
-        },
-        {
-            "name":"CSS",
-            "image":""
-        },
-        {
-            "name":"Javascript",
-            "image":""
-        },
-        {
-            "name":"Figma",
-            "image":""
-        },
-        {
-            "name":"Bootstrap",
-            "image":""
-        },
-        {
-            "name":"Vue.js",
-            "image":""
         }
     ],
     "testimonials":[
