@@ -9,6 +9,13 @@
             "image": "https://ntandomabuto.github.io/images/keyboard.png"
         },
         {
+            "name": "Node Ecommerce",
+            "github": "https://github.com/ntandomabuto/node-ecommerce.git",
+            "vercel": "https://nodeecommerce-b56c3.web.app/",
+            "description": "This website is an ecommerce which we designed me and my partner",
+            "image": "https://ntandomabuto.github.io/images/node.png"
+        },
+        {
             "name": "Calculator",
             "github": "https://github.com/ntandomabuto/calculator.git",
             "vercel": "https://calculator2-xi-blue.vercel.app/",
