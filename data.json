@@ -12,14 +12,14 @@
             "name": "Calculator",
             "github": "https://github.com/ntandomabuto/calculator.git",
             "vercel": "https://calculator2-xi-blue.vercel.app/",
-            "description": "I only used css and html for this project and it was my first project, but I updated it using javascript",
+            "description": "I only used css and html for this project and it was my first project",
             "image": "https://ntandomabuto.github.io/images/calculator.png"
         },
         {
             "name": "Area of Triangle",
             "github": "https://github.com/ntandomabuto/areatri.git",
             "vercel": "https://ntandomabuto.github.io/areatri/",
-            "description": "This calculates the area of triangle",
+            "description": "This calculates the area of triangle,used javascript and styled it",
             "image": "https://ntandomabuto.github.io/images/area.png"
         },
         {
@@ -60,7 +60,7 @@
         },
         {
             "description":"Graduated from High School with a Bachelor Pass",
-            "year":"2018 - 2022",
+            "year":" start and end year 2018 - 2022",
             "institution":"Sophumelela Secondary School",
             "contact":[
                 {
