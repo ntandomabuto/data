@@ -2,18 +2,18 @@
     "aboutMe":"My name is Ntando Mabuto from Cape Town. I am a well motivated person and I push myself to get everything done. I graduated from high school in 2022. Knowledge is power and everytime I learn new things I get excited. I was introduced to the tech industry at grade ten, since then I set a new goal of being the best and a professional IT specialist. I am still new in the industry and I am working my way up, everyday is a new lesson so I am getting better with time. During my spare time I do self-studying and practising to improve my skills, things I enjoy doing are reading, drawing and playing games. Working individually is efficient but group work is done quickly, I work well within groups because different minds bring up bright ideas. I can speak two languages, Isixhosa and English",
     "projects":[
         {
+            "name": "Inventory Management System",
+            "github": "https://github.com/ntandomabuto/capstone.git",
+            "vercel": "capstone-2c1dd.firebaseapp.com",
+            "description": "The project is a full stack project that I created using my mentioned skills",
+            "image": "https://ntandomabuto.github.io/images/cap.png"
+        },
+        {
             "name": "Node Ecommerce",
             "github": "https://github.com/ntandomabuto/node-ecommerce.git",
             "vercel": "https://nodeecommerce-b56c3.web.app/",
             "description": "This website is an ecommerce which we designed me and my partner",
             "image": "https://ntandomabuto.github.io/images/node.png"
-        },
-        {
-            "name": "Calculator",
-            "github": "https://github.com/ntandomabuto/calculator.git",
-            "vercel": "https://calculator2-xi-blue.vercel.app/",
-            "description": "I only used css and html for this project and it was my first project",
-            "image": "https://ntandomabuto.github.io/images/calculator.png"
         },
         {
             "name": "Area of Triangle",
