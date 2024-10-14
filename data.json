@@ -4,10 +4,11 @@
         {
             "name": "Inventory Management System",
             "github": "https://github.com/ntandomabuto/capstone.git",
-            "vercel": "capstone-2c1dd.firebaseapp.com",
-            "description": "The project is a full stack project that I created using my mentioned skills",
+            "vercel": "https://capstone-2c1dd.web.app/",
+            "description": "The project is a full stack project that I created using all my mentioned skills",
             "image": "https://ntandomabuto.github.io/images/cap.png"
         },
+        
         {
             "name": "Node Ecommerce",
             "github": "https://github.com/ntandomabuto/node-ecommerce.git",
