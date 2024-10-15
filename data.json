@@ -48,8 +48,21 @@
     ],
     "education":[
         {
-            "description":"Currently at the Life Choices Academy",
-            "year":"2 April - current year",
+            "description":"Intern at Life Choices Studio",
+            "year":"25 September 2024 - current year",
+            "img":"https://media.licdn.com/dms/image/v2/C4D0BAQEA-gKXeeoXlg/company-logo_200_200/company-logo_200_200/0/1678456268083/lc_studioza_logo?e=1736985600&v=beta&t=vGscK_83nbFZbbcNJilPls6YTOvVEobcadv6XzNGEME",
+            "insititution":"Life Choices Studio",
+            "contact":[
+                {
+                    "name":"Life Choices Office",
+                    "number":"0216964157",
+                    "email":"info@lifechoices.co.za"
+                }
+            ]
+        },
+        {
+            "description":"Graduated at Life Choices Academy",
+            "year":"2 April - 20 September 2024",
             "img":"https://ntandomabuto.github.io/images/life.jpg",
             "insititution":"Life Choices Academy",
             "contact":[
