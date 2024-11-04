@@ -27,7 +27,7 @@
             "name": "Add Up ",
             "github": "https://github.com/ntandomabuto/addup.git",
             "vercel": "https://ntandomabuto.github.io/addup/",
-            "description": "I used html and css for the add up, the user puts in an array in the input tag and the numbers add up",
+            "description": "The user puts in an array in the input tag and the numbers add up",
             "image": "https://ntandomabuto.github.io/images/add.png"
         },
         {
