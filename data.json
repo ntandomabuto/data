@@ -5,7 +5,7 @@
             "name": "Inventory Management System",
             "github": "https://github.com/ntandomabuto/capstone.git",
             "vercel": "https://capstone-2c1dd.web.app/",
-            "description": "The project is a full stack project that I created using all my mentioned skills",
+            "description": "The project is a full stack project that I created",
             "image": "https://ntandomabuto.github.io/images/cap.png"
         },
         
@@ -13,7 +13,7 @@
             "name": "Node Ecommerce",
             "github": "https://github.com/ntandomabuto/node-ecommerce.git",
             "vercel": "https://nodeecommerce-b56c3.web.app/",
-            "description": "This website is an ecommerce which we designed me and my partner",
+            "description": "This is a node collaboration website",
             "image": "https://ntandomabuto.github.io/images/node.png"
         },
         {
@@ -34,14 +34,14 @@
             "name": "Minutes to Seconds Converter",
             "github": "https://github.com/ntandomabuto/minutestoseconds.git",
             "vercel": "https://ntandomabuto.github.io/minutestoseconds/",
-            "description": "The minutes to seconds converter, I also used html and css and javascript. It converts any minutes into seconds",
+            "description": "Used javascript, html and css.",
             "image": "https://ntandomabuto.github.io/images/sec.jpg"
         },
         {
             "name": "Interest Amount ",
             "github": "https://github.com/ntandomabuto/interestamount.git",
             "vercel": "https://ntandomabuto.github.io/interestamount/",
-            "description": "I also used used the three languages I learnt for this, it calculates an interest of any amount",
+            "description": "Also used Javascript, html and css",
             "image": "https://ntandomabuto.github.io/images/interest.png"
         }
         
